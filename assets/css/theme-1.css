@@ -2,6 +2,9 @@ body{
     font-family:'Lato', arial, sans-serif;
     color:#444
 }
+.orange {
+    color: #F49C20;
+}
 a{
     color:#1a1a1a;
     text-decoration:none
