@@ -3,7 +3,7 @@ body{
     color:#444
 }
 a{
-    color:#56bc94;
+    color:#1a1a1a;
     text-decoration:none
 }
 a:hover{
@@ -35,8 +35,8 @@ a:focus{
     -o-transition:all 0.4s ease-in-out
 }
 .btn-theme{
-    background:#56bc94;
-    border:1px solid #56bc94;
+    background:#1a1a1a;
+    border:1px solid #1a1a1a;
     color:#fff
 }
 .btn-theme:hover{
@@ -51,7 +51,7 @@ a:focus{
     box-shadow:none
 }
 .form-control:focus{
-    border-color:#56bc94;
+    border-color:#1a1a1a;
     box-shadow:none
 }
 blockquote{
@@ -220,7 +220,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     padding:15px 10px
 }
 .header .navbar-nav .nav-item a:hover{
-    color:#56bc94;
+    color:#1a1a1a;
     background:none
 }
 .header .navbar-nav .nav-item a:focus{
@@ -232,14 +232,14 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     background:none
 }
 .header .navbar-nav .nav-item a.active{
-    color:#56bc94;
+    color:#1a1a1a;
     background:none
 }
 .header .navbar-nav .nav-item.active{
-    color:#56bc94
+    color:#1a1a1a
 }
 .header .navbar-nav .nav-item.active a{
-    color:#56bc94
+    color:#1a1a1a
 }
 .header .navbar-nav .nav-item.last{
     margin-right:0
@@ -261,7 +261,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     color:gray
 }
 .footer .links a:hover{
-    color:#56bc94
+    color:#1a1a1a
 }
 @-webkit-keyframes anim-glow{
     0%{
@@ -298,7 +298,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     animation:anim-glow 2s ease infinite
 }
 .promo{
-    background-color:#56bc94;
+    background-color:#1a1a1a;
     color:#fff;
     padding-top:67px
 }
@@ -338,7 +338,8 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 }
 .promo .overview .note{
     position:relative;
-    color:rgba(0,0,0,0.5)
+    /*color:rgba(0,0,0,0.5)*/
+    color: #FFF;
 }
 .promo .overview .note p{
     padding-top:15px
@@ -401,7 +402,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     position:relative;
     width:90px;
     height:90px;
-    border:3px solid #56bc94;
+    border:3px solid #1a1a1a;
     border-radius:50%;
     -moz-background-clip:padding;
     -webkit-background-clip:padding-box;
@@ -418,14 +419,14 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     vertical-align:middle
 }
 .features .icon:hover{
-    background:#56bc94;
+    background:#1a1a1a;
     color:#fff
 }
 .features .icon:hover .bi{
     color:#fff
 }
 .features .icon .bi{
-    color:#56bc94;
+    color:#1a1a1a;
     width:40px;
     height:40px;
     margin-top:21px
@@ -445,7 +446,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     margin-top:30px
 }
 .features .btn-link{
-    color:#56bc94;
+    color:#1a1a1a;
     text-decoration:none
 }
 .features .btn-link:hover{
@@ -525,7 +526,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 }
 .faq .item .question .svg-inline--fa{
     margin-right:10px;
-    color:#56bc94
+    color:#1a1a1a
 }
 .faq .item .answer{
     color:#777;
@@ -547,7 +548,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     margin-left:5px
 }
 .story{
-    background-color:#56bc94;
+    background-color:#1a1a1a;
     color:#fff;
     padding:80px 0
 }
@@ -609,7 +610,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     margin-bottom:23px
 }
 .testimonials .item .quote-box .svg-inline--fa{
-    color:#56bc94;
+    color:#1a1a1a;
     font-size:18px;
     position:absolute;
     left:15px;
@@ -654,7 +655,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     margin-bottom:0
 }
 .testimonials .press .note{
-    color:#56bc94;
+    color:#1a1a1a;
     margin-bottom:30px
 }
 .testimonials .press a img{
@@ -738,7 +739,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     margin:0 auto;
     width:120px;
     height:120px;
-    background:#56bc94;
+    background:#1a1a1a;
     color:#fff;
     padding-top:25px;
     border:5px solid #9fd9c2;
@@ -806,7 +807,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 }
 .pricing .item .feature-list li .svg-inline--fa{
     margin-right:5px;
-    color:#56bc94
+    color:#1a1a1a
 }
 .pricing .item .feature-list li.disabled{
     color:#999
@@ -815,7 +816,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     color:#999
 }
 .contact{
-    background-color:#56bc94;
+    background-color:#1a1a1a;
     color:#fff;
     padding:80px 0
 }
@@ -863,7 +864,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     margin-top:60px
 }
 .section-404{
-    background-color:#56bc94;
+    background-color:#1a1a1a;
     padding-top:80px;
     padding-bottom:200px;
     color:#fff
@@ -893,7 +894,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     justify-content:center !important
 }
 .modal .modal-title{
-    color:#56bc94;
+    color:#1a1a1a;
     font-size:1.3rem
 }
 .modal .modal-body{
@@ -920,7 +921,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 }
 .modal .content ul .svg-inline--fa{
     margin-right:5px;
-    color:#56bc94
+    color:#1a1a1a
 }
 .modal .quote{
     margin:15px 0;
@@ -934,7 +935,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     font-style:italic
 }
 .modal .quote .svg-inline--fa{
-    color:#56bc94;
+    color:#1a1a1a;
     margin-right:10px
 }
 .modal .quote .people{
@@ -944,7 +945,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     font-style:normal
 }
 .modal .quote .people .name{
-    color:#56bc94
+    color:#1a1a1a
 }
 .modal .close{
     position:absolute;
@@ -1150,7 +1151,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     margin-bottom:0
 }
 .config-panel .device-options a{
-    color:#56bc94;
+    color:#1a1a1a;
     font-size:0.8rem
 }
 .config-panel .device-options a:hover{
@@ -1175,7 +1176,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     border:2px solid #fff
 }
 .config-panel #color-options li.theme-1 a{
-    background:#56bc94
+    background:#1a1a1a
 }
 .config-panel #color-options li.theme-2 a{
     background-color:#28A5A8
